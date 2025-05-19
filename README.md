@@ -77,10 +77,7 @@ La solución sigue una **arquitectura en capas**:
 ### Clonar repositorios
 
 ```bash
-# Frontend
-git clone https://github.com/devCarlosOrellanaUees/DS-uees-now-app.git frontend
-# Backend
-git clone https://github.com/devCarlosOrellanaUees/DS-uees-now-ws.git backend
+https://github.com/Poolfx/PlataformaEventosUniversitarios
 ```
 
 ### Configuración
